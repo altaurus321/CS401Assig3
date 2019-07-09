@@ -1,0 +1,26 @@
+Name:Erik Houseworth      Assignment #: 2
+
+Lecture Day and Time: MW - 1230 - 1415
+
+Lab Day and Time: W - 1000-1150
+
+Lab Instructor: Hanzhong Zheng
+
+Program Due Date: 6/25/2019
+
+Handed in Date: 6/25/2019
+
+Source code file name(s): Assignment2.java
+
+
+Other file name(s) (if relevant): Dictionary.java, dictionary.txt, MyTimer.java, WordFinder.java, WordfinderTest.java, 
+
+
+Does your program compile without error?: Yes 
+
+
+Does your program run without error?: Yes
+
+
+
+ 
